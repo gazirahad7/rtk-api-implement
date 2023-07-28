@@ -1,8 +1,28 @@
-# React + Vite
+# Redux Toolkit with API  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Project Summary
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Created backend APIs with Node JS, Express JS, and Mysqol, then host the MySql DB on  Clever Cloud. Main project host on Vercel to connect GitHub and setup configure DB. After that complete the backend APIs then implement these APIs to Redux Toolkit. The added project features CRUD and searching.
+
+### OBJECTIVES
+
+- Learning Redux & Redux Toolkit
+- APIs
+- Backend
+
+### PROJECT SCREENSHOT
+
+![image](https://github.com/gazirahad7/rtk-api-implement/assets/65822873/addc0ea8-bc57-4ba5-9528-d4621b1bb3e5)
+
+### Topics Covered
+
+- Redux
+- Redux Toolkit
+- MockAPI
+- CRUD
+- REST APIs
+- Backend
+- Vite 
+
+
